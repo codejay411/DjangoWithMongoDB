@@ -16,3 +16,5 @@ tzdata==2021.5<br>
 <br>
 
 Install it all 
+
+This is a small project template where I implement django project from scratch using MongoDB.
